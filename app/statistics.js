@@ -1,8 +1,8 @@
 module.exports=function getStatistics(numbers){
     let stats = {
-        "average": 0;
-        "min": 0;
-        "max": 0;
+        "average": 0,
+        "min": 0,
+        "max": 0
     }
     
     //if input array is empty
