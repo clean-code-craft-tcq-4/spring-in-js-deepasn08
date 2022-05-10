@@ -8,9 +8,9 @@ module.exports=function getStatistics(numbers){
     //if input array is empty
     if(!numbers.length){
         stats = {
-            "average": NaN;
-            "min": NaN;
-            "max": NaN;
+            "average": NaN,
+            "min": NaN,
+            "max": NaN
         }
     }
     
